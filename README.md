@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nonam4lol
 - 👀 I’m interested in **stuff**
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on i have no friends
+- 🌱 I’m currently learning python & html
+- 💞️ I’m looking to collaborate on...wait, i have no friends
 - 📫 How to reach me discord? (nonam4lol)
 
 <!---
